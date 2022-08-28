@@ -192,6 +192,12 @@ header {
     width: 9rem !important;
   }
 }
+.producto {
+  border: solid 1px black;
+  margin: 2px;
+  width: 300px;
+}
+
 .contactos__logos {
   display: flex;
   flex-direction: row;
